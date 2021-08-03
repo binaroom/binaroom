@@ -1,5 +1,5 @@
 - 👋 Hi, We are @binaroom
-- 👀 I’m interested in Fashion
+- 👀 We are interested in Fashion
 
 <!---
 binaroom/binaroom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
